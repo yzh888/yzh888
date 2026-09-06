@@ -38,10 +38,12 @@ Backend engineer by background, currently building LLM-based agents and looking 
 <img width="145" height="104" alt="image" src="https://github.com/user-attachments/assets/fc727d35-7375-4daa-bddd-586ddf6c6c2b" />
 <img width="337" height="188" alt="image" src="https://github.com/user-attachments/assets/9e57515c-a804-46a5-bbc1-c34aebdc49eb" />
 <img width="329" height="152" alt="image" src="https://github.com/user-attachments/assets/da87f415-6114-48e3-873c-ebf4d18a9894" />
+<img width="500" height="1100" alt="image" src="https://github.com/user-attachments/assets/d7221f1f-5d1a-48f0-a703-1cd57acd3430" />
+<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/8ef66037-5fe1-46e0-ba5f-767bf9357325" /><img width="420" height="512" alt="79744e6d-1288-49a0-8181-11e22a2a4774" src="https://github.com/user-attachments/assets/986f2147-bed1-4b5a-8581-fdd193883a18" />
 <img width="405" height="391" alt="image" src="https://github.com/user-attachments/assets/399897a5-4a15-454a-bcb8-b748dd5a1bb7" />
 
 <img width="870" height="600" alt="image" src="https://github.com/user-attachments/assets/be4e2cae-2c06-4fe8-b9f6-549b4979c874" />
 
-<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/d7221f1f-5d1a-48f0-a703-1cd57acd3430" />
 
-<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/8ef66037-5fe1-46e0-ba5f-767bf9357325" /><img width="420" height="512" alt="79744e6d-1288-49a0-8181-11e22a2a4774" src="https://github.com/user-attachments/assets/986f2147-bed1-4b5a-8581-fdd193883a18" />
+
+
