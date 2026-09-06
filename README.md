@@ -32,3 +32,6 @@ Backend engineer by background, currently building LLM-based agents and looking 
 | [smart-campus-rear](https://github.com/yzh888/smart-campus-rear) | Smart-campus admin backend | Java |
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yzh888&show_icons=true&hide_border=true&theme=default)
+
+
+<img width="145" height="104" alt="image" src="https://github.com/user-attachments/assets/fc727d35-7375-4daa-bddd-586ddf6c6c2b" />
